@@ -1,2 +1,2 @@
-# sunjs
+# Sunjs
 JS中的一些常用方法
